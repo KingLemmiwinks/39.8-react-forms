@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="todo-item"
+    id="1"
+  >
+    <button
+      class="complete-btn"
+      type="button"
+    >
+      Mark Complete
+    </button>
+    <p
+      class="incomplete"
+    >
+      Example Todo
+    </p>
+    <button
+      class="delete-btn"
+      type="button"
+    >
+      Remove X
+    </button>
+  </div>
+</DocumentFragment>
+`;

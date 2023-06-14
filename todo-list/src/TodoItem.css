@@ -1,0 +1,12 @@
+button {
+  display: inline-block;
+}
+
+p {
+  display: inline-block;
+  margin: 10px 20px;
+}
+
+.complete {
+  text-decoration: line-through;
+}
