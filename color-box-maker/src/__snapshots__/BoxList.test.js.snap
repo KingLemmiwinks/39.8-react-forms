@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="box-form"
+  >
+    <h3>
+      Color Boxes!
+    </h3>
+    <p>
+      Enter box parameters to generate a box
+    </p>
+    <form>
+      <label
+        for="width"
+      >
+        Box Width (in pixels):
+      </label>
+      <input
+        id="width"
+        name="width"
+        type="number"
+        value=""
+      />
+      <label
+        for="height"
+      >
+        Box Height (in pixels):
+      </label>
+      <input
+        id="height"
+        name="height"
+        type="number"
+        value=""
+      />
+      <label
+        for="boxBackgroundColor"
+      >
+        Box Background Color(hex code or valid css color name):
+      </label>
+      <input
+        id="boxBackgroundColor"
+        name="boxBackgroundColor"
+        type="text"
+        value=""
+      />
+      <button>
+        Create Box
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
